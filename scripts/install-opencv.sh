@@ -8,7 +8,7 @@
 # |----------------------------------------------------|
 # | OS             | OpenCV       | Test | Last test   |
 # |----------------|--------------|------|-------------|
-# | Ubuntu 16.04.2 | OpenCV 3.3.1 | OK   | 01 Nov 2017 |
+# | Ubuntu 17.04   | OpenCV 3.3.1 | OK   | 01 Nov 2017 |
 
 # 1. KEEP UBUNTU OR DEBIAN UP TO DATE
 
