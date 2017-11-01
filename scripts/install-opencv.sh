@@ -1,5 +1,5 @@
 # All credit to milq
-# http://milq.github.io/
+# http://milq.github.io/install-opencv-ubuntu-debian
 ######################################
 # INSTALL OPENCV ON UBUNTU OR DEBIAN #
 ######################################
